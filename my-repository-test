@@ -1,0 +1,5 @@
+let x = 45;
+let y = 14;
+let result = x * y;
+
+console.log(result);
